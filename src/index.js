@@ -1,3 +1,5 @@
+// This does not address double or triple bonus and winner does not persist
+
 let teamBody;
 
 // On initial loadup
